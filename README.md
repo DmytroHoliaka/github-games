@@ -2,6 +2,8 @@
 
 Instruction to project
 
+Text added after configuring GPG key
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://githubschool.github.io/github-games-dmytroholiaka/
