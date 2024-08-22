@@ -2,7 +2,7 @@
 
 Instruction to project
 
-Text added after configuring GPG key
+Text added after configuring GPG key #2
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
