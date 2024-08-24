@@ -1,6 +1,7 @@
 ## Welcome to GitHub Games
 
 Instruction to project
+Instruction
 
 Text added after configuring GPG key #3
 
